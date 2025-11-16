@@ -1,0 +1,603 @@
+timestamp,customer_message,issue_category,order_ids,product_names,problem_types,solution,classification_confidence
+2025-11-17T00:08:02.891400,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,"Of course. Here is a helpful and professional response to the customer's issue.
+
+***
+
+**Subject: An Update on Your Order ORD-12345**
+
+Dear [Customer Name],
+
+Thank you for reaching out to us about your recent order, ORD-12345. I am sorry to hear that you have not yet received your Product XYZ. I understand that waiting for an order can be frustrating, and I want to help you get this sorted out right away.
+
+I have looked into your order details and can provide you with a status update and the next steps.
+
+**1. Current Status of Your Order**
+
+I have located your order in our system. The good news is that it has been shipped from our warehouse and is currently in transit with our shipping partner, [Carrier Name, e.g., FedEx, UPS, USPS].
+
+*   **Your Tracking Number is:** [Insert Tracking Number, e.g., 1Z987ABC654321]
+*   **You can track your package directly here:** [Insert Direct Tracking Link to Carrier's Website]
+
+The current tracking information indicates that your package is estimated to be delivered by [Insert Date, e.g., Wednesday, November 16th].
+
+**2. Our Shipping Policy**
+
+For your reference, our standard shipping policy states that orders are typically delivered within 5-7 business days after they have been processed. While it appears your order is still within this delivery window, we apologize if it is taking longer than you expected. Sometimes, carrier-side delays can occur which are outside of our direct control.
+
+**3. What to Do Next**
+
+Please continue to monitor the tracking link for the most up-to-date information from the carrier. If your order has not arrived by [Date, e.g., Thursday, November 17th], or if the tracking information does not update within the next 48 hours, please reply to this email directly. At that point, we will be happy to escalate the issue by either contacting the carrier on your behalf or discussing a replacement.
+
+We appreciate your patience and understanding. If there is anything else I can assist you with, please do not hesitate to ask.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:08:02.901053,de062b14-c597-46c8-82b1-a1a91f2b8189,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,"Of course. Here is a helpful and professional response to the customer's issue.
+
+***
+
+**Subject: An Update on Your Order ORD-12345**
+
+Dear [Customer Name],
+
+Thank you for reaching out to us about your recent order, ORD-12345. I am sorry to hear that you have not yet received your Product XYZ. I understand that waiting for an order can be frustrating, and I want to help you get this sorted out right away.
+
+I have looked into your order details and can provide you with a status update and the next steps.
+
+**1. Current Status of Your Order**
+
+I have located your order in our system. The good news is that it has been shipped from our warehouse and is currently in transit with our shipping partner, [Carrier Name, e.g., FedEx, UPS, USPS].
+
+*   **Your Tracking Number is:** [Insert Tracking Number, e.g., 1Z987ABC654321]
+*   **You can track your package directly here:** [Insert Direct Tracking Link to Carrier's Website]
+
+The current tracking information indicates that your package is estimated to be delivered by [Insert Date, e.g., Wednesday, November 16th].
+
+**2. Our Shipping Policy**
+
+For your reference, our standard shipping policy states that orders are typically delivered within 5-7 business days after they have been processed. While it appears your order is still within this delivery window, we apologize if it is taking longer than you expected. Sometimes, carrier-side delays can occur which are outside of our direct control.
+
+**3. What to Do Next**
+
+Please continue to monitor the tracking link for the most up-to-date information from the carrier. If your order has not arrived by [Date, e.g., Thursday, November 17th], or if the tracking information does not update within the next 48 hours, please reply to this email directly. At that point, we will be happy to escalate the issue by either contacting the carrier on your behalf or discussing a replacement.
+
+We appreciate your patience and understanding. If there is anything else I can assist you with, please do not hesitate to ask.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:12:55.756675,I need help with my order,general_inquiry,,,,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: Regarding Your Order Inquiry - We're Here to Help**
+
+Hello [Customer Name],
+
+Thank you for reaching out to [Company Name] Support. I see that you need some help with an order, and I'm more than happy to assist you with this.
+
+To get started and resolve this for you as quickly as possible, I'll need a little more information.
+
+**1. Provide Your Order Number**
+Could you please reply with your order number? You can typically find this in the confirmation email we sent you right after you placed your order. Having this number allows me to access your order details securely.
+
+**2. Describe the Issue**
+In addition, please let me know what specific issue you are experiencing. For example, are you trying to:
+
+*   Track your package?
+*   Report an issue with a product you received (e.g., damaged, wrong item)?
+*   Request a change or cancellation?
+*   Start a return or exchange?
+*   Ask a question about billing or a charge?
+
+**Helpful Resources & Policies**
+
+In the meantime, some of our most common questions are answered on our website. You might find these links helpful depending on your needs:
+
+*   **Order Tracking:** You can check the status of your shipment here: [Link to your company's order tracking page]
+*   **Returns & Exchanges Policy:** Our complete policy on returns and how to initiate one can be found here: [Link to your company's returns policy page]
+*   **Frequently Asked Questions (FAQ):** [Link to your company's FAQ page]
+
+Once I have your order number and a few more details about the issue, I will be able to investigate thoroughly and find the best solution for you.
+
+I look forward to your reply.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Company Name]",0.85
+2025-11-17T00:12:55.772486,a8de6598-06cd-432f-b05a-4df99a0db43e,I need help with my order,general_inquiry,,,,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: Regarding Your Order Inquiry - We're Here to Help**
+
+Hello [Customer Name],
+
+Thank you for reaching out to [Company Name] Support. I see that you need some help with an order, and I'm more than happy to assist you with this.
+
+To get started and resolve this for you as quickly as possible, I'll need a little more information.
+
+**1. Provide Your Order Number**
+Could you please reply with your order number? You can typically find this in the confirmation email we sent you right after you placed your order. Having this number allows me to access your order details securely.
+
+**2. Describe the Issue**
+In addition, please let me know what specific issue you are experiencing. For example, are you trying to:
+
+*   Track your package?
+*   Report an issue with a product you received (e.g., damaged, wrong item)?
+*   Request a change or cancellation?
+*   Start a return or exchange?
+*   Ask a question about billing or a charge?
+
+**Helpful Resources & Policies**
+
+In the meantime, some of our most common questions are answered on our website. You might find these links helpful depending on your needs:
+
+*   **Order Tracking:** You can check the status of your shipment here: [Link to your company's order tracking page]
+*   **Returns & Exchanges Policy:** Our complete policy on returns and how to initiate one can be found here: [Link to your company's returns policy page]
+*   **Frequently Asked Questions (FAQ):** [Link to your company's FAQ page]
+
+Once I have your order number and a few more details about the issue, I will be able to investigate thoroughly and find the best solution for you.
+
+I look forward to your reply.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Company Name]",0.85
+2025-11-17T00:14:11.841482,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,We apologize for the inconvenience. Our support team will contact you shortly.,0.85
+2025-11-17T00:14:11.848965,0bc79cf0-8857-4c91-9179-1afd76694925,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,We apologize for the inconvenience. Our support team will contact you shortly.,0.85
+2025-11-17T00:15:20.038759,"Hi, The product I recieved is damaged, I want to return that, please assist me. ",product_inquiry,,"I recieved is damaged, I want to return that, please assist me",damage,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: Regarding Your Recent Order - Damaged Item**
+
+Dear [Customer Name],
+
+Thank you for reaching out to us. I am so sorry to hear that the product you received arrived in a damaged condition. That is certainly not the experience we want for our customers, and I sincerely apologize for the inconvenience this has caused.
+
+I am here to help you resolve this as quickly as possible. To get started with your return and a solution, please follow these simple steps:
+
+**1. Provide Your Order Details:**
+To locate your purchase in our system, could you please reply to this email with your **Order Number**? You can typically find this in your original order confirmation email.
+
+**2. Show Us the Damage:**
+Please attach a photo or two of the damaged item and the packaging it arrived in. This helps us with our quality control process and allows us to process your claim more efficiently.
+
+**3. Choose Your Preferred Solution:**
+According to our policy for items that arrive damaged, we are happy to offer you one of the following options:
+
+*   **A Full Refund:** We can process a full refund to your original payment method once the return is initiated.
+*   **A Free Replacement:** We can ship a brand-new replacement item to you at no additional cost.
+
+Once we receive your order number and the photos, we will immediately process your request. We will also provide you with a pre-paid return shipping label so you can send the damaged item back to us without any expense.
+
+Please let me know which option you would prefer. If you have any trouble finding your order number or have any other questions, please don't hesitate to ask.
+
+We appreciate your patience and look forward to making this right for you.
+
+Best regards,
+
+[Your Name]  
+Customer Support Specialist  
+[Company Name]",0.85
+2025-11-17T00:15:20.039372,ad71ce2f-a993-432f-8e59-aed0ac3bd5d5,"Hi, The product I recieved is damaged, I want to return that, please assist me. ",product_inquiry,,"I recieved is damaged, I want to return that, please assist me",damage,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: Regarding Your Recent Order - Damaged Item**
+
+Dear [Customer Name],
+
+Thank you for reaching out to us. I am so sorry to hear that the product you received arrived in a damaged condition. That is certainly not the experience we want for our customers, and I sincerely apologize for the inconvenience this has caused.
+
+I am here to help you resolve this as quickly as possible. To get started with your return and a solution, please follow these simple steps:
+
+**1. Provide Your Order Details:**
+To locate your purchase in our system, could you please reply to this email with your **Order Number**? You can typically find this in your original order confirmation email.
+
+**2. Show Us the Damage:**
+Please attach a photo or two of the damaged item and the packaging it arrived in. This helps us with our quality control process and allows us to process your claim more efficiently.
+
+**3. Choose Your Preferred Solution:**
+According to our policy for items that arrive damaged, we are happy to offer you one of the following options:
+
+*   **A Full Refund:** We can process a full refund to your original payment method once the return is initiated.
+*   **A Free Replacement:** We can ship a brand-new replacement item to you at no additional cost.
+
+Once we receive your order number and the photos, we will immediately process your request. We will also provide you with a pre-paid return shipping label so you can send the damaged item back to us without any expense.
+
+Please let me know which option you would prefer. If you have any trouble finding your order number or have any other questions, please don't hesitate to ask.
+
+We appreciate your patience and look forward to making this right for you.
+
+Best regards,
+
+[Your Name]  
+Customer Support Specialist  
+[Company Name]",0.85
+2025-11-17T00:35:38.096442,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,"Of course. Here is a helpful and professional response to the customer's issue.
+
+***
+
+**Subject: Regarding your order ORD-12345**
+
+Hello,
+
+Thank you for reaching out to us and for providing your order number. I understand it's frustrating when an order doesn't arrive as expected, and I sincerely apologize for any concern this has caused.
+
+I have looked into the status of your order, **ORD-12345**, and I'm happy to report that it has been shipped and is currently in transit.
+
+Here are the specific details for your delivery:
+
+*   **Carrier:** [Insert Carrier Name, e.g., UPS, FedEx, USPS]
+*   **Tracking Number:** [Insert Tracking Number, e.g., 1Z987ABCDE123456789]
+*   **Track Your Package:** You can view the most up-to-date tracking information directly on the carrier's website here: [Insert Direct Tracking Link]
+
+Based on the tracking information, your package is estimated to be delivered by **[Insert Estimated Delivery Date, e.g., EOD tomorrow, November 15th]**.
+
+For future reference, our standard shipping and processing time is typically 5-7 business days. Once an order ships, we always send a shipping confirmation email that includes this tracking information. Sometimes these emails can be filtered into spam or promotions folders, so it may be helpful to check there as well.
+
+If your order does not arrive by the estimated delivery date, or if there are any other issues with the delivery, please reply to this email directly. We are here to help and will ensure you receive your product.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:35:38.096442,a17495cc-5c29-4f0f-b3f3-db19456c1467,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,"Of course. Here is a helpful and professional response to the customer's issue.
+
+***
+
+**Subject: Regarding your order ORD-12345**
+
+Hello,
+
+Thank you for reaching out to us and for providing your order number. I understand it's frustrating when an order doesn't arrive as expected, and I sincerely apologize for any concern this has caused.
+
+I have looked into the status of your order, **ORD-12345**, and I'm happy to report that it has been shipped and is currently in transit.
+
+Here are the specific details for your delivery:
+
+*   **Carrier:** [Insert Carrier Name, e.g., UPS, FedEx, USPS]
+*   **Tracking Number:** [Insert Tracking Number, e.g., 1Z987ABCDE123456789]
+*   **Track Your Package:** You can view the most up-to-date tracking information directly on the carrier's website here: [Insert Direct Tracking Link]
+
+Based on the tracking information, your package is estimated to be delivered by **[Insert Estimated Delivery Date, e.g., EOD tomorrow, November 15th]**.
+
+For future reference, our standard shipping and processing time is typically 5-7 business days. Once an order ships, we always send a shipping confirmation email that includes this tracking information. Sometimes these emails can be filtered into spam or promotions folders, so it may be helpful to check there as well.
+
+If your order does not arrive by the estimated delivery date, or if there are any other issues with the delivery, please reply to this email directly. We are here to help and will ensure you receive your product.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:38:23.196255,I'm having trouble with my recent order #ORD-98765. It's been 2 weeks and I still haven't received it.,general_inquiry,,,,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: An Update on Your Order #ORD-98765**
+
+Hello,
+
+Thank you for contacting us about your order #ORD-98765. I am very sorry to hear that you have not yet received your package. I can certainly understand your concern, as waiting two weeks is longer than we aim for, and I sincerely apologize for the delay and any frustration this has caused.
+
+I have looked into the status of your order to find out what's going on. Here are the steps we can take to resolve this for you immediately.
+
+**1. Current Status & Tracking**
+
+I was able to locate the tracking information for your shipment. It appears there was an unexpected delay at the carrier's distribution hub. The good news is that the package is still in transit and on its way to you.
+
+*   **Tracking Number:** [Example: 1Z987XY654321]
+*   **Track Your Package Here:** [Link to Carrier's Tracking Website - e.g., UPS.com, FedEx.com]
+
+You can use the link above to see the most current location and the estimated delivery date provided by the carrier.
+
+**2. Our Lost Package Policy & Your Options**
+
+We want to make sure you receive your order. Our policy is to consider a package officially lost if it has not been delivered within 5 business days of its last tracking update.
+
+If your package has not arrived by **[Date 5 business days from today]**, we will consider it lost in transit. At that point, we will be happy to offer you one of the following solutions:
+
+*   **A) A free replacement order,** shipped immediately with expedited shipping at our expense.
+*   **B) A full and immediate refund** for your entire purchase.
+
+**3. Next Steps**
+
+Please continue to monitor the tracking link for updates. If your order has not arrived by the date mentioned above, simply reply to this email and let us know whether you would prefer a replacement or a refund, and we will process it right away.
+
+We are committed to resolving this for you. If you have any other questions or if there is anything else I can assist you with, please do not hesitate to ask.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+[Your Name]  
+Customer Support Specialist  
+[Your Company Name]",0.85
+2025-11-17T00:38:23.199382,b82f368c-50f6-42a2-9c35-f36d3069c31f,I'm having trouble with my recent order #ORD-98765. It's been 2 weeks and I still haven't received it.,general_inquiry,,,,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: An Update on Your Order #ORD-98765**
+
+Hello,
+
+Thank you for contacting us about your order #ORD-98765. I am very sorry to hear that you have not yet received your package. I can certainly understand your concern, as waiting two weeks is longer than we aim for, and I sincerely apologize for the delay and any frustration this has caused.
+
+I have looked into the status of your order to find out what's going on. Here are the steps we can take to resolve this for you immediately.
+
+**1. Current Status & Tracking**
+
+I was able to locate the tracking information for your shipment. It appears there was an unexpected delay at the carrier's distribution hub. The good news is that the package is still in transit and on its way to you.
+
+*   **Tracking Number:** [Example: 1Z987XY654321]
+*   **Track Your Package Here:** [Link to Carrier's Tracking Website - e.g., UPS.com, FedEx.com]
+
+You can use the link above to see the most current location and the estimated delivery date provided by the carrier.
+
+**2. Our Lost Package Policy & Your Options**
+
+We want to make sure you receive your order. Our policy is to consider a package officially lost if it has not been delivered within 5 business days of its last tracking update.
+
+If your package has not arrived by **[Date 5 business days from today]**, we will consider it lost in transit. At that point, we will be happy to offer you one of the following solutions:
+
+*   **A) A free replacement order,** shipped immediately with expedited shipping at our expense.
+*   **B) A full and immediate refund** for your entire purchase.
+
+**3. Next Steps**
+
+Please continue to monitor the tracking link for updates. If your order has not arrived by the date mentioned above, simply reply to this email and let us know whether you would prefer a replacement or a refund, and we will process it right away.
+
+We are committed to resolving this for you. If you have any other questions or if there is anything else I can assist you with, please do not hesitate to ask.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+[Your Name]  
+Customer Support Specialist  
+[Your Company Name]",0.85
+2025-11-17T00:51:05.080964,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,"Of course. Here is a helpful and professional response to the customer's issue.
+
+***
+
+**Subject: Regarding Your Order ORD-12345**
+
+Hello,
+
+Thank you for contacting us. I understand you're concerned about your recent order for Product XYZ, and I sincerely apologize for any worry this delay has caused. I'm happy to help you get an update on your shipment.
+
+I have looked up your order, ORD-12345, in our system. Here are the current details and the steps we can take to resolve this:
+
+**1. Check Your Shipment Status:**
+Your order was shipped on [Insert Shipment Date, e.g., Monday, October 26th] via [Insert Carrier, e.g., UPS]. The tracking number is: **[Insert Tracking Number, e.g., 1Z987ABC654321]**.
+
+You can view the most up-to-date tracking information directly on the carrier's website here: [Insert Direct Tracking Link, e.g., https://www.ups.com/track?loc=en_US&tracknum=1Z987ABC654321]
+
+The current status shows the package is ""[Insert Current Status, e.g., In Transit]"" with an estimated delivery date of [Insert ETA, e.g., Wednesday, November 1st].
+
+**2. Our Shipping Policy:**
+For your reference, our standard shipping policy states that orders are typically delivered within [e.g., 3-5 business days] from the date of shipment. Sometimes, carriers can experience minor delays that may extend this window by a day or two.
+
+**3. Next Steps If Your Order Doesn't Arrive:**
+We want to ensure this is resolved for you. If the tracking information has not updated for more than 48 hours, or if your order does not arrive by the estimated delivery date mentioned above, please reply directly to this email. We will immediately initiate an investigation with the carrier to locate your package. If it cannot be located, we will be happy to send you a replacement or issue a full refund, whichever you prefer.
+
+Please let me know if you have any other questions. We appreciate your patience and look forward to getting your order to you soon.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:51:05.086861,0339039b-2d8f-446d-bd75-1d1160917067,I ordered product XYZ last week but haven't received it yet. My order ID is ORD-12345.,product_inquiry,,XYZ last week but haven,,"Of course. Here is a helpful and professional response to the customer's issue.
+
+***
+
+**Subject: Regarding Your Order ORD-12345**
+
+Hello,
+
+Thank you for contacting us. I understand you're concerned about your recent order for Product XYZ, and I sincerely apologize for any worry this delay has caused. I'm happy to help you get an update on your shipment.
+
+I have looked up your order, ORD-12345, in our system. Here are the current details and the steps we can take to resolve this:
+
+**1. Check Your Shipment Status:**
+Your order was shipped on [Insert Shipment Date, e.g., Monday, October 26th] via [Insert Carrier, e.g., UPS]. The tracking number is: **[Insert Tracking Number, e.g., 1Z987ABC654321]**.
+
+You can view the most up-to-date tracking information directly on the carrier's website here: [Insert Direct Tracking Link, e.g., https://www.ups.com/track?loc=en_US&tracknum=1Z987ABC654321]
+
+The current status shows the package is ""[Insert Current Status, e.g., In Transit]"" with an estimated delivery date of [Insert ETA, e.g., Wednesday, November 1st].
+
+**2. Our Shipping Policy:**
+For your reference, our standard shipping policy states that orders are typically delivered within [e.g., 3-5 business days] from the date of shipment. Sometimes, carriers can experience minor delays that may extend this window by a day or two.
+
+**3. Next Steps If Your Order Doesn't Arrive:**
+We want to ensure this is resolved for you. If the tracking information has not updated for more than 48 hours, or if your order does not arrive by the estimated delivery date mentioned above, please reply directly to this email. We will immediately initiate an investigation with the carrier to locate your package. If it cannot be located, we will be happy to send you a replacement or issue a full refund, whichever you prefer.
+
+Please let me know if you have any other questions. We appreciate your patience and look forward to getting your order to you soon.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:52:02.325368,There's a bug in your mobile app. It crashes every time I try to login.,technical_support,,,access,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: Re: Trouble Logging into the Mobile App**
+
+Hello,
+
+Thank you for reaching out and reporting this issue. I’m sorry to hear that the app is crashing every time you try to log in. I understand how frustrating that must be, and I'm here to help you get this resolved as quickly as possible.
+
+Often, this type of issue can be fixed by following a few standard troubleshooting steps. Please try the following in the order listed:
+
+**1. Force Close the App and Restart Your Device:**
+Sometimes a simple restart can clear up temporary glitches. First, completely close the app, then turn your phone off and back on again.
+
+**2. Check for App Updates:**
+An outdated version of the app can sometimes cause stability problems. Please visit the Apple App Store or Google Play Store to ensure you have the most recent version installed.
+
+**3. Clear the App's Cache:**
+Corrupted temporary files can cause crashes. The steps for this vary depending on your device:
+*   **On Android:** Go to `Settings` > `Apps` > `[Our App Name]` > `Storage` > `Clear Cache`.
+*   **On iOS:** The simplest way to clear the cache is to reinstall the app, as described in the next step.
+
+**4. Reinstall the App:**
+If the steps above don't work, uninstalling and reinstalling the app provides a fresh start and often solves the problem. Don't worry, your account data is saved on our servers and will not be lost.
+
+**If the issue continues after trying these steps,** it may be a more specific bug that our technical team needs to investigate. To help us identify the cause, please reply to this email with the following information:
+
+*   **Your Phone Model:** (e.g., iPhone 14 Pro, Samsung Galaxy S23)
+*   **Operating System Version:** (e.g., iOS 16.5, Android 13)
+*   **The App Version Number:** (You can usually find this in the app's settings menu or on its page in the app store)
+
+Once we have these details, we can escalate this to our engineering team for further investigation.
+
+We appreciate your patience as we work to get you back into your account.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:52:02.325368,d726b4d9-f9b3-4c14-b7cd-e1289931e1bc,There's a bug in your mobile app. It crashes every time I try to login.,technical_support,,,access,"Of course. Here is a helpful and professional response you can use.
+
+***
+
+**Subject: Re: Trouble Logging into the Mobile App**
+
+Hello,
+
+Thank you for reaching out and reporting this issue. I’m sorry to hear that the app is crashing every time you try to log in. I understand how frustrating that must be, and I'm here to help you get this resolved as quickly as possible.
+
+Often, this type of issue can be fixed by following a few standard troubleshooting steps. Please try the following in the order listed:
+
+**1. Force Close the App and Restart Your Device:**
+Sometimes a simple restart can clear up temporary glitches. First, completely close the app, then turn your phone off and back on again.
+
+**2. Check for App Updates:**
+An outdated version of the app can sometimes cause stability problems. Please visit the Apple App Store or Google Play Store to ensure you have the most recent version installed.
+
+**3. Clear the App's Cache:**
+Corrupted temporary files can cause crashes. The steps for this vary depending on your device:
+*   **On Android:** Go to `Settings` > `Apps` > `[Our App Name]` > `Storage` > `Clear Cache`.
+*   **On iOS:** The simplest way to clear the cache is to reinstall the app, as described in the next step.
+
+**4. Reinstall the App:**
+If the steps above don't work, uninstalling and reinstalling the app provides a fresh start and often solves the problem. Don't worry, your account data is saved on our servers and will not be lost.
+
+**If the issue continues after trying these steps,** it may be a more specific bug that our technical team needs to investigate. To help us identify the cause, please reply to this email with the following information:
+
+*   **Your Phone Model:** (e.g., iPhone 14 Pro, Samsung Galaxy S23)
+*   **Operating System Version:** (e.g., iOS 16.5, Android 13)
+*   **The App Version Number:** (You can usually find this in the app's settings menu or on its page in the app store)
+
+Once we have these details, we can escalate this to our engineering team for further investigation.
+
+We appreciate your patience as we work to get you back into your account.
+
+Best regards,
+
+[Your Name]
+Customer Support Specialist
+[Your Company Name]",0.85
+2025-11-17T00:53:43.370009,I need help with my order #ORD-98765 that hasn't arrived yet.,general_inquiry,,,,"Of course. Here is a helpful and professional response to the customer's issue, designed to be easily adapted by a customer support specialist.
+
+***
+
+**Subject: An Update on Your Order #ORD-98765**
+
+Hello [Customer Name],
+
+Thank you for reaching out to us. I'm very sorry to hear that you haven't received your order #ORD-98765 yet. I can certainly understand your concern, and I am happy to help you track it down.
+
+I have located your order in our system and can provide the following shipping details:
+
+*   **Carrier:** [Carrier Name, e.g., UPS, FedEx, USPS]
+*   **Tracking Number:** [Tracking Number]
+*   **Direct Tracking Link:** [Provide a direct, clickable link to the carrier's tracking page]
+
+Based on the tracking information, the current status of your package is: **[Insert Current Status, e.g., ""In Transit,"" ""Out for Delivery,"" or ""Delivered""].**
+
+To help resolve this for you, here are the next steps based on the package's status:
+
+**1. If the Status is ""In Transit"":**
+Sometimes, carriers experience unexpected delays that are outside of our control. The estimated delivery date is now [New Estimated Date]. Please allow until the end of that day for the package to arrive. If the tracking information has not updated for more than [e.g., 5] business days, please let us know.
+
+**2. If the Status is ""Delivered"" but you do not have it:**
+This can happen, and we have a few steps that often help locate the package quickly:
+*   Please check all potential delivery locations at your address (e.g., front porch, back door, garage area).
+*   Check with other members of your household or your neighbors, as they may have accepted the package on your behalf.
+*   If you live in an apartment complex, please check with the front office or mailroom.
+
+**Our Policy for Missing Packages**
+According to our shipping policy, if a package is marked as ""Delivered"" but has not been received, we ask that you please allow **48 hours** before we declare it lost. This is because carriers sometimes mark a package as delivered prematurely.
+
+If your order has not arrived after following the steps above and waiting the appropriate time, please reply directly to this email. We will immediately open an investigation with the carrier and, once the package is confirmed lost, we will be happy to arrange for a **replacement order or a full refund**, whichever you prefer.
+
+We are committed to making sure you receive your order. Please let us know what the tracking information says on your end or if there is anything else we can do to assist you.
+
+Best regards,
+
+[Your Name]  
+Customer Support Specialist  
+[Your Company Name]",0.85
+2025-11-17T00:53:43.375864,be978246-1561-4342-9a12-0279539813f3,I need help with my order #ORD-98765 that hasn't arrived yet.,general_inquiry,,,,"Of course. Here is a helpful and professional response to the customer's issue, designed to be easily adapted by a customer support specialist.
+
+***
+
+**Subject: An Update on Your Order #ORD-98765**
+
+Hello [Customer Name],
+
+Thank you for reaching out to us. I'm very sorry to hear that you haven't received your order #ORD-98765 yet. I can certainly understand your concern, and I am happy to help you track it down.
+
+I have located your order in our system and can provide the following shipping details:
+
+*   **Carrier:** [Carrier Name, e.g., UPS, FedEx, USPS]
+*   **Tracking Number:** [Tracking Number]
+*   **Direct Tracking Link:** [Provide a direct, clickable link to the carrier's tracking page]
+
+Based on the tracking information, the current status of your package is: **[Insert Current Status, e.g., ""In Transit,"" ""Out for Delivery,"" or ""Delivered""].**
+
+To help resolve this for you, here are the next steps based on the package's status:
+
+**1. If the Status is ""In Transit"":**
+Sometimes, carriers experience unexpected delays that are outside of our control. The estimated delivery date is now [New Estimated Date]. Please allow until the end of that day for the package to arrive. If the tracking information has not updated for more than [e.g., 5] business days, please let us know.
+
+**2. If the Status is ""Delivered"" but you do not have it:**
+This can happen, and we have a few steps that often help locate the package quickly:
+*   Please check all potential delivery locations at your address (e.g., front porch, back door, garage area).
+*   Check with other members of your household or your neighbors, as they may have accepted the package on your behalf.
+*   If you live in an apartment complex, please check with the front office or mailroom.
+
+**Our Policy for Missing Packages**
+According to our shipping policy, if a package is marked as ""Delivered"" but has not been received, we ask that you please allow **48 hours** before we declare it lost. This is because carriers sometimes mark a package as delivered prematurely.
+
+If your order has not arrived after following the steps above and waiting the appropriate time, please reply directly to this email. We will immediately open an investigation with the carrier and, once the package is confirmed lost, we will be happy to arrange for a **replacement order or a full refund**, whichever you prefer.
+
+We are committed to making sure you receive your order. Please let us know what the tracking information says on your end or if there is anything else we can do to assist you.
+
+Best regards,
+
+[Your Name]  
+Customer Support Specialist  
+[Your Company Name]",0.85
